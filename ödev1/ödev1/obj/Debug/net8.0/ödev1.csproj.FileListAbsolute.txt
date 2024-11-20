@@ -1,0 +1,14 @@
+/Users/svage/RiderProjects/ödev1/ödev1/bin/Debug/net8.0/ödev1
+/Users/svage/RiderProjects/ödev1/ödev1/bin/Debug/net8.0/ödev1.deps.json
+/Users/svage/RiderProjects/ödev1/ödev1/bin/Debug/net8.0/ödev1.runtimeconfig.json
+/Users/svage/RiderProjects/ödev1/ödev1/bin/Debug/net8.0/ödev1.dll
+/Users/svage/RiderProjects/ödev1/ödev1/bin/Debug/net8.0/ödev1.pdb
+/Users/svage/RiderProjects/ödev1/ödev1/obj/Debug/net8.0/ödev1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/svage/RiderProjects/ödev1/ödev1/obj/Debug/net8.0/ödev1.AssemblyInfoInputs.cache
+/Users/svage/RiderProjects/ödev1/ödev1/obj/Debug/net8.0/ödev1.AssemblyInfo.cs
+/Users/svage/RiderProjects/ödev1/ödev1/obj/Debug/net8.0/ödev1.csproj.CoreCompileInputs.cache
+/Users/svage/RiderProjects/ödev1/ödev1/obj/Debug/net8.0/ödev1.dll
+/Users/svage/RiderProjects/ödev1/ödev1/obj/Debug/net8.0/refint/ödev1.dll
+/Users/svage/RiderProjects/ödev1/ödev1/obj/Debug/net8.0/ödev1.pdb
+/Users/svage/RiderProjects/ödev1/ödev1/obj/Debug/net8.0/ödev1.genruntimeconfig.cache
+/Users/svage/RiderProjects/ödev1/ödev1/obj/Debug/net8.0/ref/ödev1.dll
